@@ -459,7 +459,7 @@ class BatchRenameApp(QMainWindow):
         self.setup_connections()
         
     def setup_ui(self):
-        self.setWindowTitle("现代化批量文件重命名工具 v1.0")
+        self.setWindowTitle("现代化批量文件重命名工具")
         self.setMinimumSize(1200, 800)
         self.resize(1400, 900)
         
